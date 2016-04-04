@@ -1,0 +1,11 @@
+{
+  "name": "ex0",
+  "version": "1.0.0",
+  "description": "EX-0 web services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mor Kasus",
+  "license": "ISC"
+}
